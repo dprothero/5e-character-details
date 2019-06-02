@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Human",
+        "baseHeight": 56,
+        "heightModifier": "2d10",
+        "baseWeight": 110,
+        "weightMultiplier": "2d4"
+    },
+    {
+        "name": "Dwarf, hill",
+        "baseHeight": 44,
+        "heightModifier": "2d4",
+        "baseWeight": 115,
+        "weightMultiplier": "2d6"
+    },
+    {
+        "name": "Dwarf, mountain",
+        "baseHeight": 48,
+        "heightModifier": "2d4",
+        "baseWeight": 130,
+        "weightMultiplier": "2d6"
+    },
+    {
+        "name": "Elf, high",
+        "baseHeight": 54,
+        "heightModifier": "2d10",
+        "baseWeight": 90,
+        "weightMultiplier": "1d4"
+    },
+    {
+        "name": "Elf, wood",
+        "baseHeight": 54,
+        "heightModifier": "2d10",
+        "baseWeight": 100,
+        "weightMultiplier": "1d4"
+    },
+    {
+        "name": "Elf, drow",
+        "baseHeight": 53,
+        "heightModifier": "2d6",
+        "baseWeight": 75,
+        "weightMultiplier": "1d6"
+    },
+    {
+        "name": "Halfling",
+        "baseHeight": 31,
+        "heightModifier": "2d4",
+        "baseWeight": 35,
+        "weightMultiplier": "1d1"
+    },
+    {
+        "name": "Dragonborn",
+        "baseHeight": 66,
+        "heightModifier": "2d8",
+        "baseWeight": 175,
+        "weightMultiplier": "2d6"
+    },
+    {
+        "name": "Gnome",
+        "baseHeight": 35,
+        "heightModifier": "2d4",
+        "baseWeight": 35,
+        "weightMultiplier": "1d1"
+    },
+    {
+        "name": "Half-elf",
+        "baseHeight": 57,
+        "heightModifier": "2d8",
+        "baseWeight": 110,
+        "weightMultiplier": "2d4"
+    },
+    {
+        "name": "Half-orc",
+        "baseHeight": 58,
+        "heightModifier": "2d10",
+        "baseWeight": 140,
+        "weightMultiplier": "2d6"
+    },
+    {
+        "name": "Tiefling",
+        "baseHeight": 57,
+        "heightModifier": "2d8",
+        "baseWeight": 110,
+        "weightMultiplier": "2d4"
+    }
+]
