@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://www.prothero.com/5e-character-details/build/static/css/main.fe28e4b9.chunk.css",
-    "main.js": "https://www.prothero.com/5e-character-details/build/static/js/main.e01f34bd.chunk.js",
-    "main.js.map": "https://www.prothero.com/5e-character-details/build/static/js/main.e01f34bd.chunk.js.map",
+    "main.css": "https://www.prothero.com/5e-character-details/build/static/css/main.66d2b4ed.chunk.css",
+    "main.js": "https://www.prothero.com/5e-character-details/build/static/js/main.c1139287.chunk.js",
+    "main.js.map": "https://www.prothero.com/5e-character-details/build/static/js/main.c1139287.chunk.js.map",
     "runtime~main.js": "https://www.prothero.com/5e-character-details/build/static/js/runtime~main.7aea3a25.js",
     "runtime~main.js.map": "https://www.prothero.com/5e-character-details/build/static/js/runtime~main.7aea3a25.js.map",
     "static/js/2.6f748af3.chunk.js": "https://www.prothero.com/5e-character-details/build/static/js/2.6f748af3.chunk.js",
     "static/js/2.6f748af3.chunk.js.map": "https://www.prothero.com/5e-character-details/build/static/js/2.6f748af3.chunk.js.map",
     "index.html": "https://www.prothero.com/5e-character-details/build/index.html",
-    "precache-manifest.1d2daa9f081850b50f1c0beb8c02d4b2.js": "https://www.prothero.com/5e-character-details/build/precache-manifest.1d2daa9f081850b50f1c0beb8c02d4b2.js",
+    "precache-manifest.63db028897b28e56ebfffef80e2a32d2.js": "https://www.prothero.com/5e-character-details/build/precache-manifest.63db028897b28e56ebfffef80e2a32d2.js",
     "service-worker.js": "https://www.prothero.com/5e-character-details/build/service-worker.js",
-    "static/css/main.fe28e4b9.chunk.css.map": "https://www.prothero.com/5e-character-details/build/static/css/main.fe28e4b9.chunk.css.map"
+    "static/css/main.66d2b4ed.chunk.css.map": "https://www.prothero.com/5e-character-details/build/static/css/main.66d2b4ed.chunk.css.map"
   }
 }

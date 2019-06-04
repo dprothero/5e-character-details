@@ -51,6 +51,9 @@ function App() {
           </div>
         ) : null}
       </div>
+      <div className="ViewSource">
+        <a href="https://github.com/dprothero/5e-character-details">View source code</a>
+      </div>
     </div>
   );
 }

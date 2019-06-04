@@ -3,6 +3,12 @@
 A simple app that can generate a random height and weight for a D&D 5E character
 based on the random table given in the PHB.
 
+## Live demo
+
+[View a live demo](https://www.prothero.com/5e-character-details/build/).
+
+## Development
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -47,3 +47,8 @@
   margin: 2rem;
   border-collapse: collapse;
 }
+
+.ViewSource {
+  margin: 2rem;
+  font-size: smaller;
+}
