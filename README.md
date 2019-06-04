@@ -1,3 +1,8 @@
+# 5e-character-details
+
+A simple app that can generate a random height and weight for a D&D 5E character
+based on the random table given in the PHB.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
