@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe28e4b9.chunk.css",
-    "main.js": "/static/js/main.4754b526.chunk.js",
-    "main.js.map": "/static/js/main.4754b526.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.6f748af3.chunk.js": "/static/js/2.6f748af3.chunk.js",
-    "static/js/2.6f748af3.chunk.js.map": "/static/js/2.6f748af3.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d70b7207110295442066a2ade10b0152.js": "/precache-manifest.d70b7207110295442066a2ade10b0152.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.fe28e4b9.chunk.css.map": "/static/css/main.fe28e4b9.chunk.css.map"
+    "main.css": "https://www.prothero.com/5e-character-details/build/static/css/main.fe28e4b9.chunk.css",
+    "main.js": "https://www.prothero.com/5e-character-details/build/static/js/main.e01f34bd.chunk.js",
+    "main.js.map": "https://www.prothero.com/5e-character-details/build/static/js/main.e01f34bd.chunk.js.map",
+    "runtime~main.js": "https://www.prothero.com/5e-character-details/build/static/js/runtime~main.7aea3a25.js",
+    "runtime~main.js.map": "https://www.prothero.com/5e-character-details/build/static/js/runtime~main.7aea3a25.js.map",
+    "static/js/2.6f748af3.chunk.js": "https://www.prothero.com/5e-character-details/build/static/js/2.6f748af3.chunk.js",
+    "static/js/2.6f748af3.chunk.js.map": "https://www.prothero.com/5e-character-details/build/static/js/2.6f748af3.chunk.js.map",
+    "index.html": "https://www.prothero.com/5e-character-details/build/index.html",
+    "precache-manifest.1d2daa9f081850b50f1c0beb8c02d4b2.js": "https://www.prothero.com/5e-character-details/build/precache-manifest.1d2daa9f081850b50f1c0beb8c02d4b2.js",
+    "service-worker.js": "https://www.prothero.com/5e-character-details/build/service-worker.js",
+    "static/css/main.fe28e4b9.chunk.css.map": "https://www.prothero.com/5e-character-details/build/static/css/main.fe28e4b9.chunk.css.map"
   }
 }
