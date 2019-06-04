@@ -2,7 +2,7 @@ const { convertInchesToFriendly, getHeightWeight, races } = require('./heightWei
 
 function getFakeRoller(desiredTotal) {
   return {
-    roll: expression => {
+    roll: () => {
       return {
         total: desiredTotal
       };
@@ -15,12 +15,14 @@ describe('heightWeight', () => {
     it('should convert inches to feet+inches', () => {
       expect(convertInchesToFriendly(48)).toEqual(`4'`);
       expect(convertInchesToFriendly(49)).toEqual(`4' 1"`);
+      expect(convertInchesToFriendly(60)).toEqual(`5'`);
+      expect(convertInchesToFriendly(66)).toEqual(`5' 6"`);
     });
   });
 
   describe('getHeightWeight', () => {
-    it('should generate height and weight for all races as expected', () => {
-      races.forEach((race, i) => {
+    races.forEach((race, i) => {
+      it(`should calculate weight/height for a ${race.name}`, () => {
         const result = getHeightWeight(i, getFakeRoller(1));
         expect(result.height).toEqual(race.baseHeight + 1);
         expect(result.friendlyHeight).toEqual(convertInchesToFriendly(race.baseHeight + 1));

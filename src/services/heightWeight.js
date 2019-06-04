@@ -22,8 +22,4 @@ function getHeightWeight(selectedRace, injectedRoller) {
   };
 }
 
-module.exports = {
-  convertInchesToFriendly,
-  getHeightWeight,
-  races
-};
+export { convertInchesToFriendly, getHeightWeight, races };

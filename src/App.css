@@ -1,33 +1,49 @@
-.App {
-  text-align: center;
+.MainGroup {
+  margin: 2rem;
+  padding: 2rem;
+  background-color: #eee;
+  border: #aaa solid 1px;
+  border-radius: 0.5rem;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.Input label,
+.ResultRow label {
+  margin-right: 1rem;
+  font-weight: bold;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.Input select {
+  border-radius: 0.5rem;
+  padding: 0.5rem;
 }
 
-.App-link {
-  color: #61dafb;
+.ResultGroup {
+  margin-top: 1rem;
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  grid-template-rows: 1fr;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.ResultRow {
+  margin: 0.5rem 0;
+}
+
+.ResultRefresh {
+  align-self: center;
+}
+
+.ResultRefresh button {
+  background-color: #eee;
+  border: none;
+  cursor: pointer;
+  font-size: 24px;
+}
+
+.ResultRefresh button:focus {
+  outline: none;
+}
+
+.RaceTable {
+  margin: 2rem;
+  border-collapse: collapse;
 }
