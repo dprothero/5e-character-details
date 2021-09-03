@@ -5,7 +5,7 @@ based on the random table given in the PHB.
 
 ## Live demo
 
-[View a live demo](https://dprothero.github.io/5e-character-details/build/).
+[View a live demo](https://dprothero.github.io/5e-character-details).
 
 ## Development
 
