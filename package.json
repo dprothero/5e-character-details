@@ -2,6 +2,7 @@
   "name": "5e-character-details",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dprothero.github.io/5e-character-details/build/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
