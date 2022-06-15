@@ -1549,14 +1549,14 @@ caniuse-api@^1.5.2:
     lodash.uniq "^4.5.0"
 
 caniuse-db@^1.0.30000529, caniuse-db@^1.0.30000634, caniuse-db@^1.0.30000639:
-  version "1.0.30001352"
-  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30001352.tgz#e327e6e6a765b25a08d488d40ec214c4b2c84d5a"
-  integrity sha512-6HILku0WCetV9cWNByRoAujXK6NeSB0a1VykGwAJY1k4lY0FUCT9G1lUdVIloaxarzreTHvDCjdZF7LIxkr19w==
+  version "1.0.30001354"
+  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30001354.tgz#d9448bfbc2a670e920d7a34926d639173b3a5bdb"
+  integrity sha512-vBZEjO2tk5NM2tT3fGLjfwfhZIRRXtaWm9E6lnmOt2IIRK6IVsqHwOSZCr2QCOQ0KTbaIP+dYI5Xh+IC53ra9g==
 
 caniuse-lite@^1.0.30000748, caniuse-lite@^1.0.30000792:
-  version "1.0.30001352"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001352.tgz#cc6f5da3f983979ad1e2cdbae0505dccaa7c6a12"
-  integrity sha512-GUgH8w6YergqPQDGWhJGt8GDRnY0L/iJVQcU3eJ46GYf52R8tk0Wxp0PymuFVZboJYXGiCqwozAYZNRjVj6IcA==
+  version "1.0.30001354"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001354.tgz#95c5efdb64148bb4870771749b9a619304755ce5"
+  integrity sha512-mImKeCkyGDAHNywYFA4bqnLAzTUvVkqPvhY4DV47X+Gl2c5Z8c3KNETnXp14GQt11LvxE8AwjzGxJ+rsikiOzg==
 
 capture-stack-trace@^1.0.0:
   version "1.0.1"
@@ -2483,9 +2483,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.2.7, electron-to-chromium@^1.3.30:
-  version "1.4.154"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.154.tgz#d69c60499fc467a6c59591d29183e520afbc78a1"
-  integrity sha512-GbV9djOkrnj6xmW+YYVVEI3VCQnJ0pnSTu7TW2JyjKd5cakoiSaG5R4RbEtfaD92GsY10DzbU3GYRe+IOA9kqA==
+  version "1.4.156"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.156.tgz#fc398e1bfbe586135351ebfaf198473a82923af5"
+  integrity sha512-/Wj5NC7E0wHaMCdqxWz9B0lv7CcycDTiHyXCtbbu3pXM9TV2AOp8BtMqkVuqvJNdEvltBG6LxT2Q+BxY4LUCIA==
 
 elliptic@^6.5.3:
   version "6.5.4"
